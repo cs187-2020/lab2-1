@@ -1,1 +1,2 @@
-torchtext
+torchtext==0.7
+otter-grader == 1.0.0
